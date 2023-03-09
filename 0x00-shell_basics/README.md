@@ -5,3 +5,4 @@
 #####fifth script for listing hidden files
 ######6th script to listing with group and user numbers
 ######7th for creating a directory
+######8 for moving file from one dir to another
