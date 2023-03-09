@@ -1,1 +1,2 @@
-first script for print working directory
+#first script for print working directory
+##second script for listing directory
