@@ -7,3 +7,4 @@
 ######7th for creating a directory
 ######8 for moving file from one dir to another
 ######9 removing file betty
+######10 remove directory
