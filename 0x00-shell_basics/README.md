@@ -9,3 +9,4 @@
 ######9 removing file betty
 ######10 remove directory
 #####11 change the working dir to the previous one
+#####12 listing files and hidden files in working dir and parent dir and /boot dir 
