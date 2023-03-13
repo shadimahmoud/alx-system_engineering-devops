@@ -1,2 +1,2 @@
 #!/bin/bahs
-rm *.js . ./
+rm *.js *
